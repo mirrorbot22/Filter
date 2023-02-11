@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.onrender.com/?lines=MOVIE+SEARCH+BOT+!;Edited+BY+JASURANBOTS;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MOVIE+SEARCH+BOT+!;Edited+BY+JASURANBOTS;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
 </p>
