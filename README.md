@@ -6,6 +6,8 @@
   <b>Auto-Filter-V5</b>
 </h1>
 
+# Repo Support in Render Also
+
 <b># Admin Commands
 - [x] /logs - ᴛᴏ ɢᴇᴛ ᴛʜᴇ ʀᴇᴄᴇɴᴛ ᴇʀʀᴏʀꜱ.
 
@@ -56,6 +58,3 @@
 * [![Kd Bots](https://img.shields.io/static/v1?label=KDBotz&message=Telegram&color=critical)](https://t.me/KD_Botz)
 * [![Contact](https://img.shields.io/static/v1?label=Contact&message=On+Telegram&color=critical)](https://t.me/Cynitesupport)
 
-## Deploy 
-
-#Repo Support in Render Also
