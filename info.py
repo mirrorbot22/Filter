@@ -42,16 +42,16 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', '')
 
 # Channel Button Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Asuranmoviefinder1')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Asuranmoviefinder1')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/Asuranmoviefinder1')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/TR_Discussion')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/TR_Discussion')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/TR_Discussion')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', -100xxxxxxxx))
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', -100xxxxxxx))
-FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 't.me/Asuranmoviefinder1')
-HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/demoshort')
+FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 't.me/TR_Discussion')
+HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/TamilaRockers')
 
 # Log Channels
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-100xxxxxxxx'))
@@ -85,8 +85,8 @@ SPL_DELETE_TIME = int(environ.get('SPL_DELETE_TIME', 15))
 
 # URL SHORTNER
 
-URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'tnlink.in')
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', 'dfdjkffhdskfdfdjkfhkdshfhksdhdskhfdhfhf')
+URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', '')
+URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '')
 
 LOG_STR = "Current Cusomized Configurations are:-\n"
 LOG_STR += ("IMDB Results are enabled, Bot will be showing imdb details for you queries.\n" if IMDB else "IMBD Results are disabled.\n")
