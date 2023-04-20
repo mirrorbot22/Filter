@@ -520,7 +520,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about'),
                   ],[
-                    InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ', url="https://t.me/JAsuranserials")
+                    InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ', url="https://t.me/TR_Discussion")
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -555,7 +555,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('ʀᴇᴘᴏʀᴛ ʙᴜɢs & ꜰᴇᴇᴅʙᴀᴄᴋ', url=GRP_LNK)
         ],[
-            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url="https://t.me/Asuranmoviefinder1")
+            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url="https://t.me/TR_Discussion")
         ],[
             InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close_data')
@@ -718,10 +718,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             )
     elif query.data == "cynite_cnl":
             cnlbtn = [[
-                      InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='t.me/Asuranmoviefinder1')
+                      InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='t.me/TR_Discussion')
                      ], [
-                      InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='t.me/JAsuranserials'),
-                      InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='t.me/Asuranmoviefinder1')
+                      InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='t.me/TamilaRockers'),
+                      InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='t.me/TR_Discussion')
                      ], [
                       InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
                      ]]
