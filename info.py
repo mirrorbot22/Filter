@@ -48,7 +48,7 @@ SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/TR_Discussion')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
-SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', -100xxxxxxxx))
+SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', -1001645793530))
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', -100xxxxxxx))
 FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 't.me/TR_Discussion')
 HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/TamilaRockers')
