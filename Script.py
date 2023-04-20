@@ -13,7 +13,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/TamilaRockers>☢ TamilaRockers ☢</a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/Tamizhi_Official>TV Serials👾</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/Tamizhi_Official>Tamil TV Serials👾</a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
