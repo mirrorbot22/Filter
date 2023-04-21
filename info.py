@@ -49,13 +49,13 @@ MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', -1001645793530))
-FILE_CHANNEL = int(environ.get('FILE_CHANNEL', ))
+FILE_CHANNEL = int(environ.get('FILE_CHANNEL', -1001466452179))
 FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 't.me/TR_Discussion')
 HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/TamilaRockers')
 
 # Log Channels
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-100xxxxxxxx'))
-RQST_LOG_CHANNEL = int(environ.get('RQST_LOG_CHANNEL', '-100xxxxxx'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1001747343958))
+RQST_LOG_CHANNEL = int(environ.get('RQST_LOG_CHANNEL', -1001747343958))
 
 # Bot Options
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
