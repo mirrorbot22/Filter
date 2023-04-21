@@ -192,9 +192,9 @@ Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ 🤧</b>
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ:- JAsuran
-ᴜsᴇʀɴᴀᴍᴇ:- @TamilaRockers
-ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ:- <a href='https://t.me/TamilaRockers'>TamilaRockers</a></b>
+• ꜰᴜʟʟ ɴᴀᴍᴇ:- TamilnaduCM
+ᴜsᴇʀɴᴀᴍᴇ:- @Tamilnaducm
+ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ:- <a href='https://t.me/TamilnaduCM'>TamilnaduCM</a></b>
 """
 
     CYNITE_IMDB = """
